@@ -1,0 +1,27 @@
+/* Global Styles */
+
+body {
+    background-color: #7C98AB;
+}
+
+
+/* Navbar */
+.navbar-default {
+    background-color: #ffcc99;
+}
+
+.navbar-default .navbar-brand {
+    color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000000;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #ffcc99;
+}
+
+.h3banner {
+    height: 70px;
+}
